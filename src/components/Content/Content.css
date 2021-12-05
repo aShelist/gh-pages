@@ -33,6 +33,7 @@
 @media (max-width: 600px) {
     .content-block {
         padding: 15px;
+        bottom: 15px;
     }
 
     .content-block__image_arrow_table {
@@ -51,11 +52,15 @@
     .content-block__img {
         width: 185px;
     }
+
+    .content-block__image {
+        margin-top: 10px;
+    }
 }
 
 @media (max-width: 500px) {
     .content-block {
-        width: 85%;
+        width: 95%;
     }
 }
 

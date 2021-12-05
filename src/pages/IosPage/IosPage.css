@@ -33,10 +33,6 @@
 }
 
 @media (max-width: 600px) {
-    .ios-page__text_content {
-        font-size: 15px;
-        line-height: 19px;
-    }
 
     .ios-page__text_data {
         padding-right: 59px;
@@ -46,6 +42,12 @@
         font-size: 15px;
         line-height: 20px;
         width: 85%;
+    }
+
+    .ios-page__text_content {
+        font-size: 15px;
+        line-height: 19px;
+        width: 100%;
     }
 
     .ios-page__arrow {

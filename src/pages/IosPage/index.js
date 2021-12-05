@@ -5,10 +5,11 @@ import { Number } from '../../components/Number';
 import arrow from './Arrow.svg';
 import arrowMobile from './Arrow.svg';
 import { Content } from '../../components/Content';
+import background from '../../components/App/line.svg';
 
 export const IosPage = () => {
   return (
-    <div className="app-page">
+    <div className="app-page" style={{ backgroundImage: `url(${background})` }}>
       <div className="ios-page__text">
         <div className="ios-page__number">
          <Number number={1} />
