@@ -1,0 +1,58 @@
+.slick-list{
+    padding:0 40px 0 0 !important;
+}
+
+.carousel-item {
+    background: #2F383D;
+    border-radius: 41px;
+    width: 350px;
+    height: 310px;
+    padding-top: 40px;
+}
+
+.carousel-item__icon {
+    margin: auto;
+    width: 310px;
+}
+
+.carousel-item__text {
+    color: #FFFFFF;
+    font-size: 22px;
+    width: 280px;
+    margin: 25px auto;
+    text-align: center;
+    line-height: 30px;
+}
+
+@media (max-width: 660px) {
+    .carousel-item {
+        width: 250px;
+        height: 230px;
+        padding-top: 20px;
+    }
+
+    .carousel-item__icon {
+        width: 220px;
+    }
+
+    .carousel-item__text {
+        font-size: 17px;
+        width: 200px;
+        margin: 20px auto;
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 480px) {
+    .slick-list{
+        padding:0 40px 0 0 !important;
+
+    }
+}
+
+@media (max-width: 450px) {
+    .slick-list{
+        padding:0 50px!important;
+
+    }
+}
