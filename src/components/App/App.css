@@ -1,5 +1,8 @@
-.app-page {
+#root {
   background-color: #000;
+}
+
+.app-page {
   width: 100vw;
   height: 100vh;
 
