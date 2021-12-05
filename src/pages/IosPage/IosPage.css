@@ -1,0 +1,22 @@
+.ios-page__text {
+    position: relative;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    width: 528px;
+    margin: auto;
+    color: #FFFFFF;
+    padding-top: 177px;
+    display: flex;
+}
+
+.ios-page__number {
+    margin-right: 25px;
+}
+
+.ios-page__arrow {
+    position: absolute;
+    right: -96px;
+    bottom: 0;
+}

@@ -1,0 +1,11 @@
+.number {
+    width: 52px;
+    height: 46px;
+    line-height: 44px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    border: 2px dashed #FFFFFF;
+    background: rgba(255, 255, 255, 0.15);
+    font-weight: 400;
+}
