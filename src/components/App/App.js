@@ -4,7 +4,7 @@ import { IosPage } from '../../pages/IosPage';
 import { AndroidPage } from '../../pages/AndroidPage';
 
 function App() {
-  if (isIOS) {
+  if (isIOS()) {
     return <IosPage />
   }
 
