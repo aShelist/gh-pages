@@ -1,0 +1,22 @@
+.content-block {
+    position: absolute;
+    background: #2F383D;
+    bottom: 100px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    padding: 40px;
+    border-radius: 30px;
+    width: 69%;
+}
+
+.content-block__image {
+    text-align: center;
+    margin-top: 45px;
+    position: relative;
+}
+
+.content-block__image_arrow {
+    position: absolute;
+    right: 0;
+    bottom: 70px;
+}

@@ -4,14 +4,21 @@
     font-style: normal;
     font-weight: 600;
     line-height: 28px;
-    width: 528px;
+    width: 66%;
     margin: auto;
     color: #FFFFFF;
-    padding-top: 177px;
+    padding-top: 100px;
     display: flex;
 }
 
+.ios-page__text_content {
+    padding-top: 0;
+    width: 100%;
+}
+
 .ios-page__number {
+    display: flex;
+    align-items: center;
     margin-right: 25px;
 }
 
