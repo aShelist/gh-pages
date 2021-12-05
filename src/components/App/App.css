@@ -3,4 +3,7 @@
   height: 100vh;
   background: #000000 url('./line.svg') no-repeat right;
   background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover;
 }
