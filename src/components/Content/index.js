@@ -4,6 +4,7 @@ import { Number } from '../Number';
 import './Content.css';
 import image from './Clip.png';
 import arrow from './arrow.svg';
+import arrowMobile from './arrowMobile.svg';
 
 export const Content = () => {
   return (
@@ -15,8 +16,9 @@ export const Content = () => {
         <div>У вас откроется снизу окно, в котором нажмите на “Открыть”</div>
       </div>
       <div className="content-block__image">
-        <img src={image} alt="demo" />
-        <img src={arrow} className="content-block__image_arrow" alt="arrow" />
+        <img src={image}  className="content-block__img" alt="demo" />
+        <img src={arrow} className="content-block__image_arrow content-block__image_arrow_table" alt="arrow" />
+        <img src={arrowMobile} className="content-block__image_arrow content-block__image_arrow_mobile" alt="arrow" />
       </div>
 
     </div>
