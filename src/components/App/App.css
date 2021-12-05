@@ -1,9 +1,10 @@
 .app-page {
+  background-color: #000;
   width: 100vw;
   height: 100vh;
-  background: #000000 url('./line.svg') no-repeat right;
+
+  background-image: url(./line.svg);
+  background-repeat: no-repeat;
+  background-position: right;
   background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size:cover;
 }
