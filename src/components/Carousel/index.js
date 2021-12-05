@@ -22,9 +22,21 @@ export const Carousel = () => {
   const settings = {
     centerMode: true,
     infinite: true,
-    slidesToShow: 1.5,
+    slidesToShow: 3,
     arrows: false,
     responsive: [
+      {
+        breakpoint: 1220,
+        settings: {
+          slidesToShow: 2.2,
+        }
+      },
+      {
+        breakpoint: 950,
+        settings: {
+          slidesToShow: 1.5,
+        }
+      },
       {
         breakpoint: 480,
         settings: {
@@ -35,6 +47,13 @@ export const Carousel = () => {
         breakpoint: 450,
         settings: {
           slidesToShow: 1,
+        }
+      },
+      {
+        breakpoint: 350,
+        settings: {
+          slidesToShow: 1,
+          centerMode: false,
         }
       },
     ]
