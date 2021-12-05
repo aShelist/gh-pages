@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.dc681c4c.chunk.css",
-    "main.js": "/gh-pages/static/js/main.835fa77f.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.835fa77f.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.9e66a3f6.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.9e66a3f6.js.map",
+    "main.css": "/gh-pages/static/css/main.98c8a59f.chunk.css",
+    "main.js": "/gh-pages/static/js/main.818ed255.chunk.js",
+    "main.js.map": "/gh-pages/static/js/main.818ed255.chunk.js.map",
+    "runtime-main.js": "/gh-pages/static/js/runtime-main.a4faeb2b.js",
+    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.a4faeb2b.js.map",
     "static/css/2.21d11b5d.chunk.css": "/gh-pages/static/css/2.21d11b5d.chunk.css",
-    "static/js/2.ebe490e0.chunk.js": "/gh-pages/static/js/2.ebe490e0.chunk.js",
-    "static/js/2.ebe490e0.chunk.js.map": "/gh-pages/static/js/2.ebe490e0.chunk.js.map",
-    "static/js/3.6756823c.chunk.js": "/gh-pages/static/js/3.6756823c.chunk.js",
-    "static/js/3.6756823c.chunk.js.map": "/gh-pages/static/js/3.6756823c.chunk.js.map",
+    "static/js/2.a6329a78.chunk.js": "/gh-pages/static/js/2.a6329a78.chunk.js",
+    "static/js/2.a6329a78.chunk.js.map": "/gh-pages/static/js/2.a6329a78.chunk.js.map",
+    "static/js/3.314621ce.chunk.js": "/gh-pages/static/js/3.314621ce.chunk.js",
+    "static/js/3.314621ce.chunk.js.map": "/gh-pages/static/js/3.314621ce.chunk.js.map",
     "index.html": "/gh-pages/index.html",
     "static/css/2.21d11b5d.chunk.css.map": "/gh-pages/static/css/2.21d11b5d.chunk.css.map",
-    "static/css/main.dc681c4c.chunk.css.map": "/gh-pages/static/css/main.dc681c4c.chunk.css.map",
-    "static/js/2.ebe490e0.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.ebe490e0.chunk.js.LICENSE.txt",
+    "static/css/main.98c8a59f.chunk.css.map": "/gh-pages/static/css/main.98c8a59f.chunk.css.map",
+    "static/js/2.a6329a78.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.a6329a78.chunk.js.LICENSE.txt",
+    "static/media/Arrow.0c206900.svg": "/gh-pages/static/media/Arrow.0c206900.svg",
     "static/media/icon1.3c147503.svg": "/gh-pages/static/media/icon1.3c147503.svg",
     "static/media/icon2.ae0f7d43.svg": "/gh-pages/static/media/icon2.ae0f7d43.svg",
     "static/media/icon3.c9097799.svg": "/gh-pages/static/media/icon3.c9097799.svg",
@@ -21,10 +22,10 @@
     "static/media/slick-theme.css": "/gh-pages/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e66a3f6.js",
+    "static/js/runtime-main.a4faeb2b.js",
     "static/css/2.21d11b5d.chunk.css",
-    "static/js/2.ebe490e0.chunk.js",
-    "static/css/main.dc681c4c.chunk.css",
-    "static/js/main.835fa77f.chunk.js"
+    "static/js/2.a6329a78.chunk.js",
+    "static/css/main.98c8a59f.chunk.css",
+    "static/js/main.818ed255.chunk.js"
   ]
 }
